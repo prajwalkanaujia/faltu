@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faltu/static/css/main.528844c9.css",
+    "main.js": "/faltu/static/js/main.471ff6db.js",
+    "static/js/787.d3befce1.chunk.js": "/faltu/static/js/787.d3befce1.chunk.js",
+    "index.html": "/faltu/index.html",
+    "main.528844c9.css.map": "/faltu/static/css/main.528844c9.css.map",
+    "main.471ff6db.js.map": "/faltu/static/js/main.471ff6db.js.map",
+    "787.d3befce1.chunk.js.map": "/faltu/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528844c9.css",
+    "static/js/main.471ff6db.js"
+  ]
+}
